@@ -1,11 +1,4 @@
-# Build d’image docker avec Buildah
-
-Category: Kubernetes
-Created By: Thibault Lengagne
-Created Time: August 19, 2022 10:05 AM
-Edited By: Oussama Cherifi-Alaoui
-Stack: AWS, GitLab
-Type: Operational Documentation
+# Docker image build with Buildah
 
 ## Description
 

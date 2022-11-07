@@ -4,7 +4,7 @@
 
 ## 🗜 [Technical Doc](./TechnicalDoc.md)
 
-## 👉 [Build d’image docker avec Buildah](./TemplateBuildah.md)
+## 👉 [Docker image build with Buildah](./TemplateBuildah.md)
 
 ## 👀 [Code comments](./CodeComments.md)
 
